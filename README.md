@@ -3,7 +3,6 @@
 ## Table of contents
 
  
- 
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
